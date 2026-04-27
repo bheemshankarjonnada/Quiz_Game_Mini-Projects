@@ -51,5 +51,4 @@ for(int i=0; i<Questions.length; i++){
         System.out.println("Your final Score is "+ score + " Out of "+ Questions.length);
 scanner.close();
     }
-
 }
